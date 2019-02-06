@@ -8,6 +8,7 @@
 				<property id="humidityField" type="number">1</property>
 				<!-- Display options -->
 				<property id="useSeaLevel" type="boolean">true</property>
+				<property id="temperatureCentered" type="boolean">true</property>
 				<!-- Bar Ranges -->
 				<property id="pressureMin" type="number">90000</property>
 				<property id="pressureMax" type="number">105000</property>
@@ -33,6 +34,9 @@
 		</setting>
 		<!-- Display options -->
 		<setting propertyKey="@Properties.useSeaLevel" title="@Strings.useSeaLevelTitle">
+			<settingConfig type="boolean" />
+		</setting>
+		<setting propertyKey="@Properties.temperatureCentered" title="@Strings.temperatureCenteredTitle">
 			<settingConfig type="boolean" />
 		</setting>
 		<!-- Bar Ranges -->

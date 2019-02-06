@@ -11,4 +11,5 @@
     <string id="temperatureMaxTitle">Maximum Temperature for Edge Bars</string>
     <string id="humidityMinTitle">Minimum Humidity for Edge Bars</string>
     <string id="humidityMaxTitle">Maximum Humidity for Edge Bars</string>
+    <string id="temperatureCenteredTitle">Centre Temperature Readings (for ranges with + and - values)</string>
 </strings>

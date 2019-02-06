@@ -26,7 +26,7 @@ class ThingSpeakClientView extends WatchUi.View {
 		[Application.getApp().getProperty("temperatureMin"), Application.getApp().getProperty("temperatureMax")],
 		[Application.getApp().getProperty("humidityMin"), Application.getApp().getProperty("humidityMax")]
 	];
-	var edgeArcCentered = [false, true, false];
+	var edgeArcCentered = [false, Application.getApp().getProperty("temperatureCentered"), false];
 	
 	function parseISODate(date) {
 		date = date.toString();
