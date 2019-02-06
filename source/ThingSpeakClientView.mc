@@ -22,7 +22,7 @@ class ThingSpeakClientView extends WatchUi.View {
 		[Graphics.COLOR_DK_RED, Graphics.COLOR_DK_GREEN, Graphics.COLOR_DK_BLUE] //accent
 	];
 	var edgeArcRanges = [ // Ranges that the edge arcs will represent
-		[75000, 105000],
+		[90000, 105000],
 		[-25, 25],
 		[0, 100]
 	];
@@ -101,6 +101,10 @@ class ThingSpeakClientView extends WatchUi.View {
 		System.println("Request Done");
 	}
 	
+	function computeSeaLevel() {
+		return fieldValues[0] * Math.pow(( 1.0 - (7.254 / (fieldValues[1] + 280.404))),-5.257);
+	}
+	
 	function onReceive(responseCode, data) {
 		System.println("Begin Receive");
 		if (data instanceof Lang.String) {
@@ -112,9 +116,17 @@ class ThingSpeakClientView extends WatchUi.View {
 			System.println("ISODATE from JSON:");
 			System.println(data["created_at"]);
 			tsDate = parseISODate(data["created_at"]);
-			for( var i = 0; i < channelFields.size(); i++ ) { 
+			
+			for (var i = 0; i < channelFields.size(); i++ ) {
 				fieldValues.add(data[keys[channelFields[i]]].toFloat());
-				fieldText.add(Lang.format("$1$$2$", [Math.round(data[keys[channelFields[i]]].toFloat()).toNumber(), fieldSuffixes[i] ]));
+			}
+			
+			if (Application.getApp().getProperty("useSeaLevel")) { //Convert to sea level pressure
+				fieldValues[0] = computeSeaLevel();
+			}
+			
+			for (var i = 0; i < fieldValues.size(); i++) {
+				fieldText.add(Lang.format("$1$$2$", [fieldValues[i].toNumber(), fieldSuffixes[i] ]));
 			}
 		}
 		WatchUi.requestUpdate();
@@ -140,6 +152,9 @@ class ThingSpeakClientView extends WatchUi.View {
 	}
 	
 	function thickEdgeArc(dc, startAngle, endAngle, thickness){
+		if (endAngle == startAngle) {
+			return;
+		}
 		if(endAngle < startAngle){
 			var s = startAngle;
 			startAngle = endAngle;
