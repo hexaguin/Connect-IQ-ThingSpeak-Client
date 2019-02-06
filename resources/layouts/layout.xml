@@ -1,0 +1,5 @@
+<layout id="MainLayout">
+    <!--  <bitmap id="id_monkey" x="center" y="center" filename="../drawables/monkey.png" /> -->
+    <label text="57%" x="center" y="50" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_ORANGE" id="humid"/>
+    <label text="21C" x="center" y="25" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" id="temp"/>
+</layout>
