@@ -1,4 +1,4 @@
-# Connect IQ ThingSpeak Client
-Displays numerical data from a ThingSpeak channel on round Garmin smartwatches (such as the VivoActive 3). 
+# Connect IQ ThingSpeak Weather Client
+A simple widget that d  isplays temperature, humidity, and air pressure from almost any ThingSpeak-enabled weather station on 240x240 round Garmin smartwatches (Vivoactive 3, Fenix 5, etc).
 
-## Currently in very early development, not ready for release!
+Note: I wrote this in a day. Expect a couple rough edges.
