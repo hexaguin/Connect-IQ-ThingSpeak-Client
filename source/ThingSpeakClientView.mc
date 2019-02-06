@@ -6,6 +6,15 @@ using Toybox.Time;
 using Toybox.Time.Gregorian;
 
 class ThingSpeakClientView extends WatchUi.View {
+	/*
+██    ██  █████  ██████  ██  █████  ██████  ██      ███████ ███████
+██    ██ ██   ██ ██   ██ ██ ██   ██ ██   ██ ██      ██      ██
+██    ██ ███████ ██████  ██ ███████ ██████  ██      █████   ███████
+ ██  ██  ██   ██ ██   ██ ██ ██   ██ ██   ██ ██      ██           ██
+  ████   ██   ██ ██   ██ ██ ██   ██ ██████  ███████ ███████ ███████
+*/
+
+
 	var channelUrl = Application.getApp().getProperty("URL");
 	hidden var mText = "Connecting to\nThingSpeak...";
 	var tsDate;
@@ -27,6 +36,19 @@ class ThingSpeakClientView extends WatchUi.View {
 		[Application.getApp().getProperty("humidityMin"), Application.getApp().getProperty("humidityMax")]
 	];
 	var edgeArcCentered = [false, Application.getApp().getProperty("temperatureCentered"), false];
+	
+	function computeSeaLevel() {
+		return fieldValues[0] * Math.pow(( 1.0 - (7.254 / (fieldValues[1] + 280.404))),-5.257);
+	}
+	
+	
+	/*
+███████ ██    ██ ███    ██  ██████ ████████ ██  ██████  ███    ██ ███████
+██      ██    ██ ████   ██ ██         ██    ██ ██    ██ ████   ██ ██
+█████   ██    ██ ██ ██  ██ ██         ██    ██ ██    ██ ██ ██  ██ ███████
+██      ██    ██ ██  ██ ██ ██         ██    ██ ██    ██ ██  ██ ██      ██
+██       ██████  ██   ████  ██████    ██    ██  ██████  ██   ████ ███████
+*/
 	
 	function parseISODate(date) {
 		date = date.toString();
@@ -101,10 +123,6 @@ class ThingSpeakClientView extends WatchUi.View {
 		System.println("Request Done");
 	}
 	
-	function computeSeaLevel() {
-		return fieldValues[0] * Math.pow(( 1.0 - (7.254 / (fieldValues[1] + 280.404))),-5.257);
-	}
-	
 	function onReceive(responseCode, data) {
 		System.println("Begin Receive");
 		if (data instanceof Lang.String) {
@@ -133,23 +151,6 @@ class ThingSpeakClientView extends WatchUi.View {
 		WatchUi.requestUpdate();
 	  	System.println("End Receive");
 	}
-
-	function initialize() {
-		View.initialize();
-	}
-
-	// Load your resources here
-	function onLayout(dc) {
-		setLayout(Rez.Layouts.MainLayout(dc));
-	}
-
-	// Called when this View is brought to the foreground. Restore
-	// the state of this View and prepare it to be shown. This includes
-	// loading resources into memory.
-	function onShow() {
-		makeRequest();
-		System.println("onShow done");
-	}
 	
 	function thickEdgeArc(dc, startAngle, endAngle, thickness){
 		if (endAngle == startAngle) {
@@ -170,6 +171,33 @@ class ThingSpeakClientView extends WatchUi.View {
 		f = (f < 0.0) ? 0.0 : f;
 		f = (f > 1.0) ? 1.0 : f;
 		return f;
+	}
+	
+	/*
+███████ ████████  █████  ███    ██ ██████   █████  ██████  ██████       ██████  █████  ██      ██      ███████
+██         ██    ██   ██ ████   ██ ██   ██ ██   ██ ██   ██ ██   ██     ██      ██   ██ ██      ██      ██
+███████    ██    ███████ ██ ██  ██ ██   ██ ███████ ██████  ██   ██     ██      ███████ ██      ██      ███████
+     ██    ██    ██   ██ ██  ██ ██ ██   ██ ██   ██ ██   ██ ██   ██     ██      ██   ██ ██      ██           ██
+███████    ██    ██   ██ ██   ████ ██████  ██   ██ ██   ██ ██████       ██████ ██   ██ ███████ ███████ ███████
+*/
+
+
+
+	function initialize() {
+		View.initialize();
+	}
+
+	// Load your resources here
+	function onLayout(dc) {
+		setLayout(Rez.Layouts.MainLayout(dc));
+	}
+
+	// Called when this View is brought to the foreground. Restore
+	// the state of this View and prepare it to be shown. This includes
+	// loading resources into memory.
+	function onShow() {
+		makeRequest();
+		System.println("onShow done");
 	}
 
 	// Update the view
