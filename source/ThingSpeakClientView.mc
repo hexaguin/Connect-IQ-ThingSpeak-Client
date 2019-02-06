@@ -7,7 +7,7 @@ using Toybox.Time.Gregorian;
 
 class ThingSpeakClientView extends WatchUi.View {
 	var channelUrl = Application.getApp().getProperty("URL");
-	hidden var mText = "Loading Data...";
+	hidden var mText = "Connecting to\nThingSpeak...";
 	var tsDate;
 	var fieldSuffixes = ["Pa", "C", "%"];
 	var channelFields = [
@@ -175,7 +175,7 @@ class ThingSpeakClientView extends WatchUi.View {
 	// Update the view
 	function onUpdate(dc) {
 		// Call the parent onUpdate function to redraw the layout
-		dc.setColor(Graphics.COLOR_ORANGE, Graphics.COLOR_BLACK);
+		dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_BLACK);
 		dc.clear();
 		if(	fieldText.size() == 0){
 			dc.drawText(dc.getWidth()/2, dc.getHeight()/2, Graphics.FONT_LARGE, mText, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);

@@ -103,23 +103,22 @@
 <entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="193" pc="268438061" symbol="onUpdate"/>
 <entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="194" pc="268438091" symbol="onUpdate"/>
 <entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="195" pc="268438098" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="196" pc="268438159" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="198" pc="268438179" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="199" pc="268438220" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="200" pc="268438246" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="202" pc="268438287" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="203" pc="268438301" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="205" pc="268438342" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="210" pc="268438387" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="19" lineNum="216" pc="268438411" symbol="onHide"/>
-<entry filename="Rez" id="26" lineNum="31" pc="268438416" symbol="MainLayout"/>
-<entry filename="Rez" id="26" lineNum="35" pc="268438428" symbol="MainLayout"/>
-<entry filename="Rez" id="26" lineNum="36" pc="268438597" symbol="MainLayout"/>
-<entry filename="Rez" id="26" lineNum="37" pc="268438630" symbol="MainLayout"/>
-<entry filename="Rez" id="26" lineNum="38" pc="268438682" symbol="MainLayout"/>
-<entry filename="Rez" id="26" lineNum="39" pc="268438851" symbol="MainLayout"/>
-<entry filename="Rez" id="26" lineNum="40" pc="268438884" symbol="MainLayout"/>
-<entry filename="Rez" id="26" lineNum="43" pc="268438936" symbol="MainLayout"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="197" pc="268438159" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="198" pc="268438200" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="199" pc="268438226" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="201" pc="268438267" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="202" pc="268438281" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="204" pc="268438322" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="209" pc="268438367" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="19" lineNum="215" pc="268438391" symbol="onHide"/>
+<entry filename="Rez" id="26" lineNum="32" pc="268438396" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="36" pc="268438408" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="37" pc="268438577" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="38" pc="268438610" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="39" pc="268438662" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="40" pc="268438831" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="41" pc="268438864" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="44" pc="268438916" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -139,16 +138,16 @@
 <entry field="true" id="12" symbol="tsDate"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
 <entry id="30" method="true" symbol="MainLayout"/>
-<entry field="true" id="36" symbol="URLTitle"/>
+<entry field="true" id="34" symbol="URLTitle"/>
 <entry id="26" method="true" symbol="fractionOfRange"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry field="true" id="13" symbol="fieldSuffixes"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8388924" module="true" symbol="Gregorian"/>
-<entry field="true" id="38" symbol="humidityFieldTitle"/>
+<entry field="true" id="43" symbol="humidityFieldTitle"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="37" symbol="temperatureFieldTitle"/>
-<entry field="true" id="40" symbol="AppName"/>
+<entry field="true" id="42" symbol="temperatureFieldTitle"/>
+<entry field="true" id="36" symbol="AppName"/>
 <entry id="22" method="true" symbol="makeRequest"/>
 <entry field="true" id="8389127" symbol="mText"/>
 <entry field="true" id="15" symbol="fieldText"/>
@@ -164,8 +163,9 @@
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry field="true" id="8388940" symbol="year"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="35" symbol="temperatureMinTitle"/>
-<entry field="true" id="41" symbol="temperatureMaxTitle"/>
+<entry field="true" id="33" symbol="temperatureCenteredTitle"/>
+<entry field="true" id="41" symbol="temperatureMinTitle"/>
+<entry field="true" id="37" symbol="temperatureMaxTitle"/>
 <entry id="8389348" symbol="font"/>
 <entry id="8389347" symbol="color"/>
 <entry id="10" object="true" symbol="ThingSpeakClientView"/>
@@ -177,8 +177,8 @@
 <entry id="28" module="true" symbol="Layouts"/>
 <entry id="20" method="true" symbol="parseISODate"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="33" symbol="pressureMinTitle"/>
-<entry field="true" id="39" symbol="pressureMaxTitle"/>
+<entry field="true" id="39" symbol="pressureMinTitle"/>
+<entry field="true" id="35" symbol="pressureMaxTitle"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry id="8389346" symbol="text"/>
 <entry field="true" id="8389063" symbol="identifier"/>
@@ -187,8 +187,8 @@
 <entry field="true" id="19" symbol="edgeArcCentered"/>
 <entry field="true" id="11" symbol="channelUrl"/>
 <entry id="24" method="true" symbol="onReceive"/>
-<entry field="true" id="42" symbol="humidityMinTitle"/>
-<entry field="true" id="34" symbol="humidityMaxTitle"/>
+<entry field="true" id="38" symbol="humidityMinTitle"/>
+<entry field="true" id="40" symbol="humidityMaxTitle"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry id="8388635" module="true" symbol="Application"/>
 </symbolTable>
@@ -222,17 +222,17 @@
 <entry endPc="268437489" name="x" stackId="1" startPc="268437422"/>
 <entry endPc="268437489" name="min" stackId="2" startPc="268437422"/>
 <entry endPc="268438036" name="i" stackId="3" startPc="268437873"/>
-<entry endPc="268438374" name="startAngle" stackId="6" startPc="268438091"/>
-<entry endPc="268438374" name="filledLength" stackId="7" startPc="268438091"/>
-<entry endPc="268438387" name="i" stackId="5" startPc="268438091"/>
-<entry endPc="268438387" name="entryAge" stackId="2" startPc="268437661"/>
-<entry endPc="268438387" name="arcLength" stackId="4" startPc="268437661"/>
-<entry endPc="268438411" name="dc" stackId="1" startPc="268437489"/>
-<entry endPc="268438963" name="rez_cmp_local_bitmap_temp" stackId="4" startPc="268438428"/>
-<entry endPc="268438963" name="rez_cmp_local_bitmap_temp_fontHeight" stackId="5" startPc="268438428"/>
-<entry endPc="268438963" name="rez_cmp_local_bitmap_humid_fontHeight" stackId="3" startPc="268438428"/>
-<entry endPc="268438963" name="rez_cmp_local_bitmap_humid" stackId="2" startPc="268438428"/>
-<entry endPc="268438964" name="dc" stackId="1" startPc="268438416"/>
+<entry endPc="268438354" name="startAngle" stackId="6" startPc="268438091"/>
+<entry endPc="268438354" name="filledLength" stackId="7" startPc="268438091"/>
+<entry endPc="268438367" name="i" stackId="5" startPc="268438091"/>
+<entry endPc="268438367" name="entryAge" stackId="2" startPc="268437661"/>
+<entry endPc="268438367" name="arcLength" stackId="4" startPc="268437661"/>
+<entry endPc="268438391" name="dc" stackId="1" startPc="268437489"/>
+<entry endPc="268438943" name="rez_cmp_local_bitmap_temp" stackId="4" startPc="268438408"/>
+<entry endPc="268438943" name="rez_cmp_local_bitmap_temp_fontHeight" stackId="5" startPc="268438408"/>
+<entry endPc="268438943" name="rez_cmp_local_bitmap_humid_fontHeight" stackId="3" startPc="268438408"/>
+<entry endPc="268438943" name="rez_cmp_local_bitmap_humid" stackId="2" startPc="268438408"/>
+<entry endPc="268438944" name="dc" stackId="1" startPc="268438396"/>
 </localVars>
 <annotations/>
 <functions>
@@ -314,6 +314,6 @@
 <dataEntry offset="561" parentId="Rez" symbolId="JsonData" type="module"/>
 <dataEntry offset="592" parentId="Rez" symbolId="Layouts" type="module"/>
 <dataEntry offset="631" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="758" parentId="globals" symbolId="ThingSpeakClientApp" type="class"/>
+<dataEntry offset="766" parentId="globals" symbolId="ThingSpeakClientApp" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>
