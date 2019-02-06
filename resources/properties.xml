@@ -1,15 +1,27 @@
 <resources>
 	<properties>
+				<!-- URL -->
         <property id="URL" type="string">https://api.thingspeak.com/channels/579417/feeds/last.json</property>
+				<!-- Field IDs -->
 				<property id="pressureField" type="number">2</property>
 				<property id="temperatureField" type="number">3</property>
 				<property id="humidityField" type="number">1</property>
+				<!-- Display options -->
 				<property id="useSeaLevel" type="boolean">true</property>
+				<!-- Bar Ranges -->
+				<property id="pressureMin" type="number">90000</property>
+				<property id="pressureMax" type="number">105000</property>
+				<property id="temperatureMin" type="number">-25</property>
+				<property id="temperatureMax" type="number">25</property>
+				<property id="humidityMin" type="number">0</property>
+				<property id="humidityMax" type="number">100</property>
 	</properties>
 	<settings>
+		<!-- URL -->
 		<setting propertyKey="@Properties.URL" title="@Strings.URLTitle">
 			<settingConfig type="url" />
 		</setting>
+		<!-- Field IDs -->
 		<setting propertyKey="@Properties.pressureField" title="@Strings.pressureFieldTitle">
 			<settingConfig type="numeric" />
 		</setting>
@@ -19,8 +31,28 @@
 		<setting propertyKey="@Properties.humidityField" title="@Strings.humidityFieldTitle">
 			<settingConfig type="numeric" />
 		</setting>
+		<!-- Display options -->
 		<setting propertyKey="@Properties.useSeaLevel" title="@Strings.useSeaLevelTitle">
 			<settingConfig type="boolean" />
+		</setting>
+		<!-- Bar Ranges -->
+		<setting propertyKey="@Properties.pressureMin" title="@Strings.pressureMinTitle">
+			<settingConfig type="numeric" />
+		</setting>
+		<setting propertyKey="@Properties.pressureMax" title="@Strings.pressureMaxTitle">
+			<settingConfig type="numeric" />
+		</setting>
+		<setting propertyKey="@Properties.temperatureMin" title="@Strings.temperatureMinTitle">
+			<settingConfig type="numeric" />
+		</setting>
+		<setting propertyKey="@Properties.temperatureMax" title="@Strings.temperatureMaxTitle">
+			<settingConfig type="numeric" />
+		</setting>
+		<setting propertyKey="@Properties.humidityMin" title="@Strings.humidityMinTitle">
+			<settingConfig type="numeric" />
+		</setting>
+		<setting propertyKey="@Properties.humidityMax" title="@Strings.humidityMaxTitle">
+			<settingConfig type="numeric" />
 		</setting>
 	</settings>
 </resources>

@@ -5,4 +5,10 @@
     <string id="temperatureFieldTitle">Air Temperature Field Number</string>
     <string id="humidityFieldTitle">Relative Humidity Field Number</string>
     <string id="useSeaLevelTitle">Use Pressure at Sea Level</string>
+    <string id="pressureMinTitle">Minimum Pressure for Edge Bars</string>
+    <string id="pressureMaxTitle">Maximum Pressure for Edge Bars</string>
+    <string id="temperatureMinTitle">Minimum Temperature for Edge Bars</string>
+    <string id="temperatureMaxTitle">Maximum Temperature for Edge Bars</string>
+    <string id="humidityMinTitle">Minimum Humidity for Edge Bars</string>
+    <string id="humidityMaxTitle">Maximum Humidity for Edge Bars</string>
 </strings>

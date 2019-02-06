@@ -22,9 +22,9 @@ class ThingSpeakClientView extends WatchUi.View {
 		[Graphics.COLOR_DK_RED, Graphics.COLOR_DK_GREEN, Graphics.COLOR_DK_BLUE] //accent
 	];
 	var edgeArcRanges = [ // Ranges that the edge arcs will represent
-		[90000, 105000],
-		[-25, 25],
-		[0, 100]
+		[Application.getApp().getProperty("pressureMin"), Application.getApp().getProperty("pressureMax")],
+		[Application.getApp().getProperty("temperatureMin"), Application.getApp().getProperty("temperatureMax")],
+		[Application.getApp().getProperty("humidityMin"), Application.getApp().getProperty("humidityMax")]
 	];
 	var edgeArcCentered = [false, true, false];
 	
@@ -166,7 +166,7 @@ class ThingSpeakClientView extends WatchUi.View {
 	}
 	
 	function fractionOfRange(x, min, max){
-		var f = (x-min)/max;
+		var f = (x - min) / (max - min);
 		f = (f < 0.0) ? 0.0 : f;
 		f = (f > 1.0) ? 1.0 : f;
 		return f;
