@@ -7,135 +7,155 @@
 <entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
 <entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
 <entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="26" pc="268435531" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="27" pc="268435535" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="28" pc="268435548" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="29" pc="268435571" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="30" pc="268435591" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="31" pc="268435611" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="33" pc="268435616" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="41" pc="268435867" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="44" pc="268435896" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="45" pc="268435903" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="46" pc="268435941" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="47" pc="268435958" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="48" pc="268435981" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="49" pc="268436002" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="51" pc="268436008" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="55" pc="268436024" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="57" pc="268436041" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="59" pc="268436046" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="60" pc="268436053" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="62" pc="268436092" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="63" pc="268436115" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="65" pc="268436120" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="66" pc="268436171" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="68" pc="268436225" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="69" pc="268436248" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="70" pc="268436267" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="71" pc="268436280" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="73" pc="268436313" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="76" pc="268436321" symbol="parseISODate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="9" lineNum="79" pc="268436362" symbol="makeRequest"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="9" lineNum="80" pc="268436366" symbol="makeRequest"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="9" lineNum="89" pc="268436435" symbol="makeRequest"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="92" pc="268436459" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="93" pc="268436463" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="94" pc="268436486" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="95" pc="268436506" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="97" pc="268436519" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="98" pc="268436533" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="99" pc="268436546" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="100" pc="268436559" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="101" pc="268436582" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="102" pc="268436608" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="103" pc="268436635" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="104" pc="268436665" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="105" pc="268436706" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="108" pc="268436842" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="109" pc="268436858" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="110" pc="268436874" symbol="onReceive"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="11" lineNum="113" pc="268436898" symbol="initialize"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="11" lineNum="114" pc="268436902" symbol="initialize"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="118" pc="268436921" symbol="onLayout"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="119" pc="268436925" symbol="onLayout"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="13" lineNum="125" pc="268436963" symbol="onShow"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="13" lineNum="126" pc="268436967" symbol="onShow"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="13" lineNum="127" pc="268436979" symbol="onShow"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="14" lineNum="130" pc="268437003" symbol="thickEdgeArc"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="14" lineNum="131" pc="268437007" symbol="thickEdgeArc"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="14" lineNum="132" pc="268437015" symbol="thickEdgeArc"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="14" lineNum="133" pc="268437019" symbol="thickEdgeArc"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="14" lineNum="134" pc="268437023" symbol="thickEdgeArc"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="14" lineNum="136" pc="268437030" symbol="thickEdgeArc"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="14" lineNum="137" pc="268437045" symbol="thickEdgeArc"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="15" lineNum="141" pc="268437141" symbol="fractionOfRange"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="15" lineNum="142" pc="268437145" symbol="fractionOfRange"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="15" lineNum="143" pc="268437155" symbol="fractionOfRange"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="15" lineNum="144" pc="268437178" symbol="fractionOfRange"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="15" lineNum="145" pc="268437201" symbol="fractionOfRange"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="149" pc="268437205" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="151" pc="268437209" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="152" pc="268437245" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="153" pc="268437257" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="154" pc="268437283" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="156" pc="268437377" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="157" pc="268437426" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="158" pc="268437462" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="160" pc="268437559" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="161" pc="268437589" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="162" pc="268437630" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="165" pc="268437752" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="166" pc="268437777" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="167" pc="268437807" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="168" pc="268437814" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="170" pc="268437875" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="171" pc="268437916" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="172" pc="268437942" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="174" pc="268437983" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="175" pc="268437997" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="177" pc="268438038" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="182" pc="268438083" symbol="onUpdate"/>
-<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="17" lineNum="188" pc="268438107" symbol="onHide"/>
-<entry filename="Rez" id="24" lineNum="21" pc="268438112" symbol="MainLayout"/>
-<entry filename="Rez" id="24" lineNum="25" pc="268438124" symbol="MainLayout"/>
-<entry filename="Rez" id="24" lineNum="26" pc="268438293" symbol="MainLayout"/>
-<entry filename="Rez" id="24" lineNum="27" pc="268438326" symbol="MainLayout"/>
-<entry filename="Rez" id="24" lineNum="28" pc="268438378" symbol="MainLayout"/>
-<entry filename="Rez" id="24" lineNum="29" pc="268438547" symbol="MainLayout"/>
-<entry filename="Rez" id="24" lineNum="30" pc="268438580" symbol="MainLayout"/>
-<entry filename="Rez" id="24" lineNum="33" pc="268438632" symbol="MainLayout"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="31" pc="268435531" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="32" pc="268435535" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="33" pc="268435548" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="34" pc="268435571" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="35" pc="268435591" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="36" pc="268435611" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="38" pc="268435616" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="46" pc="268435867" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="49" pc="268435896" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="50" pc="268435903" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="51" pc="268435941" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="52" pc="268435958" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="53" pc="268435981" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="54" pc="268436002" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="56" pc="268436008" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="60" pc="268436024" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="62" pc="268436041" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="64" pc="268436046" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="65" pc="268436053" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="67" pc="268436092" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="68" pc="268436115" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="70" pc="268436120" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="71" pc="268436171" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="73" pc="268436225" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="74" pc="268436248" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="75" pc="268436267" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="76" pc="268436280" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="78" pc="268436313" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="8" lineNum="81" pc="268436321" symbol="parseISODate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="9" lineNum="84" pc="268436362" symbol="stringToArray"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="9" lineNum="85" pc="268436366" symbol="stringToArray"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="9" lineNum="86" pc="268436374" symbol="stringToArray"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="9" lineNum="87" pc="268436393" symbol="stringToArray"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="9" lineNum="88" pc="268436411" symbol="stringToArray"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="9" lineNum="89" pc="268436441" symbol="stringToArray"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="9" lineNum="91" pc="268436470" symbol="stringToArray"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="94" pc="268436474" symbol="makeRequest"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="95" pc="268436478" symbol="makeRequest"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="10" lineNum="101" pc="268436550" symbol="makeRequest"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="11" lineNum="104" pc="268436574" symbol="computeSeaLevel"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="11" lineNum="105" pc="268436578" symbol="computeSeaLevel"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="108" pc="268436647" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="109" pc="268436651" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="110" pc="268436674" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="111" pc="268436694" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="113" pc="268436707" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="114" pc="268436721" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="115" pc="268436734" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="116" pc="268436747" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="117" pc="268436770" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="118" pc="268436796" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="120" pc="268436823" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="121" pc="268436853" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="124" pc="268436910" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="125" pc="268436944" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="128" pc="268436972" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="129" pc="268437002" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="132" pc="268437111" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="133" pc="268437127" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="12" lineNum="134" pc="268437143" symbol="onReceive"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="13" lineNum="137" pc="268437167" symbol="initialize"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="13" lineNum="138" pc="268437171" symbol="initialize"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="14" lineNum="142" pc="268437190" symbol="onLayout"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="14" lineNum="143" pc="268437194" symbol="onLayout"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="15" lineNum="149" pc="268437232" symbol="onShow"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="15" lineNum="150" pc="268437236" symbol="onShow"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="15" lineNum="151" pc="268437248" symbol="onShow"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="154" pc="268437272" symbol="thickEdgeArc"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="155" pc="268437276" symbol="thickEdgeArc"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="156" pc="268437284" symbol="thickEdgeArc"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="158" pc="268437288" symbol="thickEdgeArc"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="159" pc="268437296" symbol="thickEdgeArc"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="160" pc="268437300" symbol="thickEdgeArc"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="161" pc="268437304" symbol="thickEdgeArc"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="163" pc="268437311" symbol="thickEdgeArc"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="16" lineNum="164" pc="268437326" symbol="thickEdgeArc"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="17" lineNum="168" pc="268437422" symbol="fractionOfRange"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="17" lineNum="169" pc="268437426" symbol="fractionOfRange"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="17" lineNum="170" pc="268437439" symbol="fractionOfRange"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="17" lineNum="171" pc="268437462" symbol="fractionOfRange"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="17" lineNum="172" pc="268437485" symbol="fractionOfRange"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="176" pc="268437489" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="178" pc="268437493" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="179" pc="268437529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="180" pc="268437541" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="181" pc="268437567" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="183" pc="268437661" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="184" pc="268437710" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="185" pc="268437746" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="187" pc="268437843" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="188" pc="268437873" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="189" pc="268437914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="192" pc="268438036" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="193" pc="268438061" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="194" pc="268438091" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="195" pc="268438098" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="196" pc="268438159" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="198" pc="268438179" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="199" pc="268438220" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="200" pc="268438246" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="202" pc="268438287" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="203" pc="268438301" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="205" pc="268438342" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="18" lineNum="210" pc="268438387" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hexag\\eclipse-workspace\\ThingSpeakClient\\source\\ThingSpeakClientView.mc" id="19" lineNum="216" pc="268438411" symbol="onHide"/>
+<entry filename="Rez" id="26" lineNum="31" pc="268438416" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="35" pc="268438428" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="36" pc="268438597" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="37" pc="268438630" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="38" pc="268438682" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="39" pc="268438851" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="40" pc="268438884" symbol="MainLayout"/>
+<entry filename="Rez" id="26" lineNum="43" pc="268438936" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="31" symbol="pressureFieldTitle"/>
 <entry id="8389349" symbol="justification"/>
 <entry id="8388637" module="true" symbol="Communications"/>
+<entry field="true" id="14" symbol="channelFields"/>
+<entry field="true" id="32" symbol="useSeaLevelTitle"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388645" module="true" symbol="Time"/>
-<entry field="true" id="15" symbol="fieldValues"/>
+<entry field="true" id="16" symbol="fieldValues"/>
 <entry field="true" id="8388720" symbol="hour"/>
+<entry id="23" method="true" symbol="computeSeaLevel"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
-<entry field="true" id="17" symbol="edgeArcRanges"/>
+<entry field="true" id="18" symbol="edgeArcRanges"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry field="true" id="11" symbol="tsDate"/>
+<entry field="true" id="12" symbol="tsDate"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
-<entry id="27" method="true" symbol="MainLayout"/>
-<entry field="true" id="28" symbol="URLTitle"/>
-<entry id="23" method="true" symbol="fractionOfRange"/>
+<entry id="30" method="true" symbol="MainLayout"/>
+<entry field="true" id="36" symbol="URLTitle"/>
+<entry id="26" method="true" symbol="fractionOfRange"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry field="true" id="13" symbol="fieldSuffixes"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8388924" module="true" symbol="Gregorian"/>
-<entry field="true" id="12" symbol="fieldLabels"/>
+<entry field="true" id="38" symbol="humidityFieldTitle"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="29" symbol="AppName"/>
-<entry id="20" method="true" symbol="makeRequest"/>
+<entry field="true" id="37" symbol="temperatureFieldTitle"/>
+<entry field="true" id="40" symbol="AppName"/>
+<entry id="22" method="true" symbol="makeRequest"/>
 <entry field="true" id="8389127" symbol="mText"/>
-<entry field="true" id="14" symbol="fieldText"/>
-<entry field="true" id="16" symbol="fieldColors"/>
-<entry id="22" method="true" symbol="thickEdgeArc"/>
+<entry field="true" id="15" symbol="fieldText"/>
+<entry field="true" id="17" symbol="fieldColors"/>
+<entry id="25" method="true" symbol="thickEdgeArc"/>
 <entry id="8388641" module="true" symbol="Math"/>
-<entry field="true" id="26" symbol="LauncherIcon"/>
+<entry field="true" id="29" symbol="LauncherIcon"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry field="true" id="8389065" symbol="locY"/>
@@ -144,6 +164,8 @@
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry field="true" id="8388940" symbol="year"/>
 <entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="35" symbol="temperatureMinTitle"/>
+<entry field="true" id="41" symbol="temperatureMaxTitle"/>
 <entry id="8389348" symbol="font"/>
 <entry id="8389347" symbol="color"/>
 <entry id="10" object="true" symbol="ThingSpeakClientView"/>
@@ -152,15 +174,21 @@
 <entry id="8389339" symbol="second"/>
 <entry id="9" object="true" symbol="ThingSpeakClientApp"/>
 <entry field="true" id="8388938" symbol="month"/>
-<entry id="25" module="true" symbol="Layouts"/>
-<entry id="19" method="true" symbol="parseISODate"/>
+<entry id="28" module="true" symbol="Layouts"/>
+<entry id="20" method="true" symbol="parseISODate"/>
 <entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="33" symbol="pressureMinTitle"/>
+<entry field="true" id="39" symbol="pressureMaxTitle"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry id="8389346" symbol="text"/>
 <entry field="true" id="8389063" symbol="identifier"/>
-<entry id="24" module="true" symbol="Menus"/>
-<entry field="true" id="18" symbol="edgeArcCentered"/>
-<entry id="21" method="true" symbol="onReceive"/>
+<entry id="27" module="true" symbol="Menus"/>
+<entry id="21" method="true" symbol="stringToArray"/>
+<entry field="true" id="19" symbol="edgeArcCentered"/>
+<entry field="true" id="11" symbol="channelUrl"/>
+<entry id="24" method="true" symbol="onReceive"/>
+<entry field="true" id="42" symbol="humidityMinTitle"/>
+<entry field="true" id="34" symbol="humidityMaxTitle"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry id="8388635" module="true" symbol="Application"/>
 </symbolTable>
@@ -174,33 +202,37 @@
 <entry endPc="268436361" name="moment" stackId="2" startPc="268435535"/>
 <entry endPc="268436361" name="tz" stackId="4" startPc="268435535"/>
 <entry endPc="268436362" name="date" stackId="1" startPc="268435531"/>
-<entry endPc="268436839" name="i" stackId="4" startPc="268436665"/>
-<entry endPc="268436839" name="keys" stackId="3" startPc="268436533"/>
-<entry endPc="268436898" name="responseCode" stackId="1" startPc="268436459"/>
-<entry endPc="268436898" name="data" stackId="2" startPc="268436459"/>
-<entry endPc="268436963" name="dc" stackId="1" startPc="268436921"/>
-<entry endPc="268437027" name="s" stackId="5" startPc="268437015"/>
-<entry endPc="268437140" name="i" stackId="6" startPc="268437045"/>
-<entry endPc="268437141" name="dc" stackId="1" startPc="268437003"/>
-<entry endPc="268437141" name="endAngle" stackId="3" startPc="268437003"/>
-<entry endPc="268437141" name="thickness" stackId="4" startPc="268437003"/>
-<entry endPc="268437141" name="startAngle" stackId="2" startPc="268437003"/>
-<entry endPc="268437204" name="f" stackId="4" startPc="268437145"/>
-<entry endPc="268437205" name="max" stackId="3" startPc="268437141"/>
-<entry endPc="268437205" name="x" stackId="1" startPc="268437141"/>
-<entry endPc="268437205" name="min" stackId="2" startPc="268437141"/>
-<entry endPc="268437752" name="i" stackId="3" startPc="268437589"/>
-<entry endPc="268438070" name="startAngle" stackId="6" startPc="268437807"/>
-<entry endPc="268438070" name="filledLength" stackId="7" startPc="268437807"/>
-<entry endPc="268438083" name="i" stackId="5" startPc="268437807"/>
-<entry endPc="268438083" name="entryAge" stackId="2" startPc="268437377"/>
-<entry endPc="268438083" name="arcLength" stackId="4" startPc="268437377"/>
-<entry endPc="268438107" name="dc" stackId="1" startPc="268437205"/>
-<entry endPc="268438659" name="rez_cmp_local_bitmap_temp" stackId="4" startPc="268438124"/>
-<entry endPc="268438659" name="rez_cmp_local_bitmap_temp_fontHeight" stackId="5" startPc="268438124"/>
-<entry endPc="268438659" name="rez_cmp_local_bitmap_humid_fontHeight" stackId="3" startPc="268438124"/>
-<entry endPc="268438659" name="rez_cmp_local_bitmap_humid" stackId="2" startPc="268438124"/>
-<entry endPc="268438660" name="dc" stackId="1" startPc="268438112"/>
+<entry endPc="268436467" name="commaIndex" stackId="3" startPc="268436393"/>
+<entry endPc="268436473" name="outputArray" stackId="2" startPc="268436366"/>
+<entry endPc="268436474" name="inputString" stackId="1" startPc="268436362"/>
+<entry endPc="268436910" name="i" stackId="4" startPc="268436853"/>
+<entry endPc="268437108" name="i" stackId="5" startPc="268437002"/>
+<entry endPc="268437108" name="keys" stackId="3" startPc="268436721"/>
+<entry endPc="268437167" name="responseCode" stackId="1" startPc="268436647"/>
+<entry endPc="268437167" name="data" stackId="2" startPc="268436647"/>
+<entry endPc="268437232" name="dc" stackId="1" startPc="268437190"/>
+<entry endPc="268437308" name="s" stackId="5" startPc="268437296"/>
+<entry endPc="268437421" name="i" stackId="6" startPc="268437326"/>
+<entry endPc="268437422" name="dc" stackId="1" startPc="268437272"/>
+<entry endPc="268437422" name="endAngle" stackId="3" startPc="268437272"/>
+<entry endPc="268437422" name="thickness" stackId="4" startPc="268437272"/>
+<entry endPc="268437422" name="startAngle" stackId="2" startPc="268437272"/>
+<entry endPc="268437488" name="f" stackId="4" startPc="268437426"/>
+<entry endPc="268437489" name="max" stackId="3" startPc="268437422"/>
+<entry endPc="268437489" name="x" stackId="1" startPc="268437422"/>
+<entry endPc="268437489" name="min" stackId="2" startPc="268437422"/>
+<entry endPc="268438036" name="i" stackId="3" startPc="268437873"/>
+<entry endPc="268438374" name="startAngle" stackId="6" startPc="268438091"/>
+<entry endPc="268438374" name="filledLength" stackId="7" startPc="268438091"/>
+<entry endPc="268438387" name="i" stackId="5" startPc="268438091"/>
+<entry endPc="268438387" name="entryAge" stackId="2" startPc="268437661"/>
+<entry endPc="268438387" name="arcLength" stackId="4" startPc="268437661"/>
+<entry endPc="268438411" name="dc" stackId="1" startPc="268437489"/>
+<entry endPc="268438963" name="rez_cmp_local_bitmap_temp" stackId="4" startPc="268438428"/>
+<entry endPc="268438963" name="rez_cmp_local_bitmap_temp_fontHeight" stackId="5" startPc="268438428"/>
+<entry endPc="268438963" name="rez_cmp_local_bitmap_humid_fontHeight" stackId="3" startPc="268438428"/>
+<entry endPc="268438963" name="rez_cmp_local_bitmap_humid" stackId="2" startPc="268438428"/>
+<entry endPc="268438964" name="dc" stackId="1" startPc="268438416"/>
 </localVars>
 <annotations/>
 <functions>
@@ -222,7 +254,14 @@
 <param id="date"/>
 <documentation/>
 </functionEntry>
+<functionEntry accessMode="public" name="stringToArray" parent="ThingSpeakClientView">
+<param id="inputString"/>
+<documentation/>
+</functionEntry>
 <functionEntry accessMode="public" name="makeRequest" parent="ThingSpeakClientView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="computeSeaLevel" parent="ThingSpeakClientView">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onReceive" parent="ThingSpeakClientView">
@@ -268,13 +307,13 @@
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
 <dataEntry offset="166" parentId="globals" symbolId="ThingSpeakClientView" type="class"/>
-<dataEntry offset="357" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="436" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="475" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="506" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="537" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="568" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="607" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="654" parentId="globals" symbolId="ThingSpeakClientApp" type="class"/>
+<dataEntry offset="381" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="460" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="499" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="530" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="561" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="592" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="631" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="758" parentId="globals" symbolId="ThingSpeakClientApp" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>
