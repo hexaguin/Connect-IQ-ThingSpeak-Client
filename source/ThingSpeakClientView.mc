@@ -6,22 +6,27 @@ using Toybox.Time;
 using Toybox.Time.Gregorian;
 
 class ThingSpeakClientView extends WatchUi.View {
+	var channelUrl = Application.getApp().getProperty("URL");
 	hidden var mText = "Loading Data...";
 	var tsDate;
-	var fieldLabels = ["Humidity", "Pressure", "Temperature"];
-	var fieldSuffixes = ["%", "Pa", "C"];
+	var fieldSuffixes = ["Pa", "C", "%"];
+	var channelFields = [
+		Application.getApp().getProperty("pressureField"),
+		Application.getApp().getProperty("temperatureField"),
+		Application.getApp().getProperty("humidityField"),
+	];
 	var fieldText = [];
 	var fieldValues = [];
 	var fieldColors = [ 
-		[Graphics.COLOR_BLUE,    Graphics.COLOR_GREEN,    Graphics.COLOR_RED], //foreground
-		[Graphics.COLOR_DK_BLUE, Graphics.COLOR_DK_GREEN, Graphics.COLOR_DK_RED] //accent
+		[Graphics.COLOR_RED,    Graphics.COLOR_GREEN,    Graphics.COLOR_BLUE], //foreground
+		[Graphics.COLOR_DK_RED, Graphics.COLOR_DK_GREEN, Graphics.COLOR_DK_BLUE] //accent
 	];
 	var edgeArcRanges = [ // Ranges that the edge arcs will represent
-		[0, 100],
 		[75000, 105000],
-		[-25, 25]
+		[-25, 25],
+		[0, 100]
 	];
-	var edgeArcCentered = [false, false, true];
+	var edgeArcCentered = [false, true, false];
 	
 	function parseISODate(date) {
 		date = date.toString();
@@ -76,14 +81,21 @@ class ThingSpeakClientView extends WatchUi.View {
 		return moment.add(new Time.Duration(tzOffset));
 }
 
+	function stringToArray(inputString) {
+		var outputArray = [];
+		while(inputString.find(",")) {
+			var commaIndex = inputString.find(",");
+			outputArray.add(inputString.substring(0, commaIndex)); // Append everything before the first comma to the list
+			inputString = inputString.substring(commaIndex, inputString.length()); // Drop the newly copied substring from the input string
+		}
+		return outputArray;
+	}
+
 	function makeRequest() {
 		Communications.makeWebRequest(
-			"https://api.thingspeak.com/channels/579417/feeds/last.json",
-			{
-			},
-			{
-				"Content-Type" => Communications.REQUEST_CONTENT_TYPE_URL_ENCODED
-			},
+			channelUrl,
+			{},
+			{"Content-Type" => Communications.REQUEST_CONTENT_TYPE_URL_ENCODED},
 			method(:onReceive)
 		);
 		System.println("Request Done");
@@ -100,9 +112,9 @@ class ThingSpeakClientView extends WatchUi.View {
 			System.println("ISODATE from JSON:");
 			System.println(data["created_at"]);
 			tsDate = parseISODate(data["created_at"]);
-			for( var i = 0; i < fieldLabels.size(); i++ ) { 
-				fieldValues.add(data[keys[i+1]].toFloat());
-				fieldText.add(Lang.format("$1$$2$", [Math.round(data[keys[i+1]].toFloat()).toNumber(), fieldSuffixes[i] ]));
+			for( var i = 0; i < channelFields.size(); i++ ) { 
+				fieldValues.add(data[keys[channelFields[i]]].toFloat());
+				fieldText.add(Lang.format("$1$$2$", [Math.round(data[keys[channelFields[i]]].toFloat()).toNumber(), fieldSuffixes[i] ]));
 			}
 		}
 		WatchUi.requestUpdate();
