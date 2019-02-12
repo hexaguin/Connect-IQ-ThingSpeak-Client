@@ -1,7 +1,7 @@
 <strings>
     <string id="AppName">ThingSpeak Client</string>
     <string id="URLTitle">ThingSpeak URL</string>
-    <string id="pressureFieldTitle">Barometric Pressue Field Number</string>
+    <string id="pressureFieldTitle">Barometric Pressure Field Number</string>
     <string id="temperatureFieldTitle">Air Temperature Field Number</string>
     <string id="humidityFieldTitle">Relative Humidity Field Number</string>
     <string id="useSeaLevelTitle">Use Pressure at Sea Level</string>
