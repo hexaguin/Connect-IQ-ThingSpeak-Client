@@ -123,6 +123,16 @@ class ThingSpeakClientView extends WatchUi.View {
 		System.println("Request Done");
 	}
 	
+	function roundedString(value, digits) { //Rounds to n decimals, and adds a k suffix to values > 1k. Technically a truncation, not a round, but the potential 0.01 degree difference is meaningless anyways.
+		var suffix = "";
+		if (value > 1000){
+			value = value/1000;
+			suffix = "k";
+		}
+		var valueString = value.toString();
+		return valueString.substring(0, valueString.find(".")+digits+1)+suffix;
+	}
+	
 	function onReceive(responseCode, data) {
 		System.println("Begin Receive");
 		if (data instanceof Lang.String) {
@@ -143,8 +153,8 @@ class ThingSpeakClientView extends WatchUi.View {
 				fieldValues[0] = computeSeaLevel();
 			}
 			
-			for (var i = 0; i < fieldValues.size(); i++) {
-				fieldText.add(Lang.format("$1$$2$", [fieldValues[i].toNumber(), fieldSuffixes[i] ]));
+			for (var i = 0; i < fieldValues.size(); i++) { //TODO: rounding
+				fieldText.add(Lang.format("$1$$2$", [roundedString(fieldValues[i], 2), fieldSuffixes[i] ]));
 			}
 		}
 		WatchUi.requestUpdate();
@@ -214,7 +224,7 @@ class ThingSpeakClientView extends WatchUi.View {
 			
 			for(var i = 0; i < 	fieldText.size(); i++){ // Text
 				dc.setColor(fieldColors[0][i], Graphics.COLOR_BLACK); 
-				dc.drawText(dc.getWidth()/2, (dc.getHeight()/2) + (i*32)-32, Graphics.FONT_LARGE, 	fieldText[i], Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+				dc.drawText(dc.getWidth()/2, (dc.getHeight()/2) + (i*32)-32, Graphics.FONT_LARGE, fieldText[i], Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
 			}
 			
 			var arcLength = 360/fieldValues.size();
